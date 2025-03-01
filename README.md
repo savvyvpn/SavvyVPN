@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm SavvyVPN 👋
 
-<!--
-**savvyvpn/SavvyVPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my SavvyVPN repository! I'm passionate about privacy, security, and building tools that make the internet a safer place for everyone.
 
-Here are some ideas to get you started:
+## About Me
+- 🔒 Security Enthusiast
+- 🌐 VPN Developer
+- 💻 Open Source Contributor
+- 📚 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Project
+Here is the project I've been working on:
+- **SavvyVPN**: The most secure and advanced VPN service with a lot of security features.
+
+> Note: My project is currently not open source.
+
+## Get in Touch
+- 📧 Email: contact@savvyvpn.app
+
+## GitHub Stats
+![SavvyVPN's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvyvpn&show_icons=true&theme=radical)
+
+## Languages & Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvyvpn&layout=compact&theme=radical)
+
+### Most Used Languages
+- Java
+- PHP
+- Python
+
+Thank you for visiting my repository!
